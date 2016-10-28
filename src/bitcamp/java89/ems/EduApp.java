@@ -34,7 +34,8 @@ public class EduApp {
           lectureController.service();
           break;
 
-
+        case "help2" :
+          break;
 
         case "quit" :
           System.out.println("Good bye!");
