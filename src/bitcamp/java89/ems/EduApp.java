@@ -34,7 +34,7 @@ public class EduApp {
           lectureController.service();
           break;
 
- 
+
         case "dsafeat" :
           break;
 
@@ -57,6 +57,7 @@ public class EduApp {
 
     System.out.println("4. 가라");
     System.out.println("5. 와라");
+    System.out.println("6. 커먼");
 
 
   }
