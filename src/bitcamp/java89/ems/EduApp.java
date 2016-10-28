@@ -34,14 +34,10 @@ public class EduApp {
           lectureController.service();
           break;
 
-        case "help2" :
-          break;
-
-        case "dsaf" :
-          break;
-
+ 
         case "dsafeat" :
           break;
+
 
         case "quit" :
           System.out.println("Good bye!");
