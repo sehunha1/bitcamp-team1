@@ -37,6 +37,9 @@ public class EduApp {
         case "help2" :
           break;
 
+        case "dsaf" :
+          break;
+          
         case "quit" :
           System.out.println("Good bye!");
           break loop;
