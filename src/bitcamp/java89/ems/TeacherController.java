@@ -22,10 +22,8 @@ public class TeacherController {
       case "view": this.doView(); break;
       case "delete": this.doDelete(); break;
       case "update": this.doUpdate(); break;
-      case "quit":
-        System.out.println("Good bye!");
-        break loop;
-      default:
+      case "main": break loop;    
+        default:
         System.out.println("지원하지 않는 명령어입니다.");
       }
     }
