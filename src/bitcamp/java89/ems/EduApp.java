@@ -52,5 +52,6 @@ public class EduApp {
     System.out.println("2. 강사관리");
     System.out.println("3. 강좌관리");
     System.out.println("메뉴 이동은 'go 메뉴번호'를 입력하세요.");
+    System.out.println("3. 가라);
   }
 }
