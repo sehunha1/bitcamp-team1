@@ -13,7 +13,7 @@ public class TeacherController {
   public void service() {
     loop:
     while (true) {
-      System.out.print("명령> ");
+      System.out.print("강사관리> ");
       String command = keyScan.nextLine().toLowerCase();
 
       switch (command) {
