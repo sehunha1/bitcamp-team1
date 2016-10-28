@@ -35,6 +35,12 @@ public class EduApp {
           lectureController.service();
           break;
 
+<<<<<<< HEAD
+=======
+        case "help1" :
+          break;
+
+>>>>>>> 07c904da918380c21d07fc8c0dbd105ad76e3a35
         case "quit" :
           System.out.println("Good bye!");
           break loop;
@@ -50,5 +56,7 @@ public class EduApp {
     System.out.println("2. 강사관리");
     System.out.println("3. 강좌관리");
     System.out.println("메뉴 이동은 'go 메뉴번호'를 입력하세요.");
+    System.out.println("4. 가라");
+    System.out.println("5. 와라");
   }
 }
