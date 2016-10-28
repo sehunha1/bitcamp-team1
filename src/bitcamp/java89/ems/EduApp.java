@@ -61,6 +61,7 @@ public class EduApp {
     System.out.println("5. 와라");
     System.out.println("6. 커먼");
     System.out.println("7. ㅇㅇ");
+    System.out.println("7. ㅇㅇ");
 
 
   }
