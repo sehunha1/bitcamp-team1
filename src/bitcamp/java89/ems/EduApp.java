@@ -39,6 +39,9 @@ public class EduApp {
 
         case "dsaf" :
           break;
+
+        case "dsafeat" :
+          break;
           
         case "quit" :
           System.out.println("Good bye!");
