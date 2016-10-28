@@ -10,6 +10,7 @@ public class EduApp {
     TeacherController teacherController = new TeacherController(keyScan);
     LectureController lectureController = new LectureController(keyScan);
     System.out.println("비트캠프 관리시스템에 오신걸 환영합니다.");
+    System.out.println("TEST");
 
     loop:
     while (true) {
@@ -33,8 +34,6 @@ public class EduApp {
         case "go 3" :
           lectureController.service();
           break;
-
-
 
         case "quit" :
           System.out.println("Good bye!");
