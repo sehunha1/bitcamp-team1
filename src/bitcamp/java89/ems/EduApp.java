@@ -38,6 +38,8 @@ public class EduApp {
         case "dsafeat" :
           break;
 
+        case "dsjhagg" :
+          break;
 
         case "quit" :
           System.out.println("Good bye!");
