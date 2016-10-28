@@ -38,7 +38,7 @@ public class EduApp {
         case "dsafeat" :
           break;
 
-        case "dsjhagg" :
+        case "testest" :
           break;
 
         case "quit" :
